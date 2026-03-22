@@ -1,4 +1,4 @@
-# 🅿️ Real-time Parking Lot Detection System
+# 🅿️ Real-time Parking Iot Detection System
 
 ระบบตรวจสอบที่จอดรถแบบ Real-time ด้วย YOLO11 และ Flask + React Dashboard
 
